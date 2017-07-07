@@ -1,1 +1,1 @@
-# Hier wordt documentatie geplaatst (tutorial, etc.)
+# Hier wordt documentatie geplaatst (tutorials, etc.)
